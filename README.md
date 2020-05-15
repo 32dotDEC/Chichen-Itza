@@ -200,8 +200,14 @@ Final Project Multimedia (06016311)
          <polygon points="907,168 914,174 918,173" style="fill:#77a5bf" />
          <polygon points="917,173 922,171 936,181" style="fill:#cad9e0" />
        </g>
-       <!--ตกแต่งนิดหน่อย-->
-      <svg id="circle1" viewbox="0 0 1200 800" width="500" height="500" x="120" y="405">
+       <g id="wall">
+    <polygon points="500,660 1000,380 1000,400 500,680" style="fill:#f7e681" />
+    <polygon points="500,660 500,680 120,450 120,430" style="fill:#f7be63" />
+    <polygon points="500,660 505,657 125,427 120,430" style="fill:#fad9a5" />
+    <polygon points="500,660 1000,380 993,377 500,654" style="fill:#fae9a5" />
+    
+    <!--ตกแต่งนิดหน่อย-->
+    <svg id="circle1" viewbox="0 0 1200 800" width="500" height="500" x="120" y="405">
 
       <ellipse cx="190" cy="130" rx="6" ry="6" fill="#4f3a26">
       </ellipse>
@@ -216,6 +222,7 @@ Final Project Multimedia (06016311)
       <ellipse cx="550" cy="320" rx="15" ry="15" fill="#4f3a26">
       </ellipse>
       </svg>
+    
        </svg>
 
 
