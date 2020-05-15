@@ -200,6 +200,22 @@ Final Project Multimedia (06016311)
          <polygon points="907,168 914,174 918,173" style="fill:#77a5bf" />
          <polygon points="917,173 922,171 936,181" style="fill:#cad9e0" />
        </g>
+       <!--ตกแต่งนิดหน่อย-->
+      <svg id="circle1" viewbox="0 0 1200 800" width="500" height="500" x="120" y="405">
+
+      <ellipse cx="190" cy="130" rx="6" ry="6" fill="#4f3a26">
+      </ellipse>
+      <ellipse cx="850" cy="530" rx="5" ry="5" fill="#4f3a26">
+      </ellipse>
+      <ellipse cx="700" cy="380" rx="5" ry="5" fill="#4f3a26">
+      </ellipse>
+      <ellipse cx="400" cy="210" rx="6" ry="6" fill="#4f3a26">
+      </ellipse>
+      <ellipse cx="100" cy="10" rx="9" ry="9" fill="#4f3a26">
+      </ellipse>
+      <ellipse cx="550" cy="320" rx="15" ry="15" fill="#4f3a26">
+      </ellipse>
+      </svg>
        </svg>
 
 
