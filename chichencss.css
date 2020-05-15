@@ -1,0 +1,42 @@
+#all {
+    background: #d5f3fa;
+    width: 95%;
+    display: block;
+    margin: auto;
+  }
+  @keyframes frameTransform {
+    60% { transform: translatex(300px); }
+  }
+  #cloud1 {
+    animation: frameTransform 5000ms steps(100) infinite;
+  }
+  @keyframes frameTransform2 {
+    60% { transform: translatex(100px); }
+  }
+  #cloud2 {
+    animation: frameTransform2 5000ms steps(100) infinite;
+  }
+  @keyframes frameTransform3 {
+    60% { transform: translatex(-200px); }
+  }
+  #cloud3 {
+    animation: frameTransform3 5000ms steps(100) infinite;
+  }
+  @keyframes frameTransform4 {
+    70% { transform: translatex(-200px); }
+  }
+  #bird1 {
+    animation: frameTransform4 5000ms steps(100) infinite;
+  }
+  @keyframes frameTransform5 {
+    80% { transform: translatex(-200px); }
+  }
+  #bird2 {
+    animation: frameTransform5 5000ms steps(150) infinite;
+  }
+  @keyframes frameTransform6 {
+    50% { transform: translatex(-200px); }
+  }
+  #bird3 {
+    animation: frameTransform6 5000ms steps(150) infinite;
+  }
