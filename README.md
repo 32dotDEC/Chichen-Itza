@@ -1,6 +1,12 @@
 # Chichen-Itza SVG Project
 Final Project Multimedia (06016311)
 
+# Presentation
+[ Click](https://youtu.be/_I0kubUthNA) 
+
+# Netify
+[ Click](https://chichenitza-svg.netlify.app/index.html)
+
 # Code
 ### HTML
 > SVG
